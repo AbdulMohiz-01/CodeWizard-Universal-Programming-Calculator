@@ -1,5 +1,5 @@
 # CodeWizard: Universal Programming Calculator
-
+![](https://github.com/AbdulMohiz-01/CodeWizard-Universal-Programming-Calculator/blob/main/Screenshot%202023-07-14%20154914.png)
 
 ## Overview
 
